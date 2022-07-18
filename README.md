@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">LINKS</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omercorapci/"><img  width="60" height="60" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" /></a><a href="https://www.hackerrank.com/217omer28"><img  width="60" height="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a><a href="https://www.kaggle.com/merorap"><img  width="60" height="60" src="https://www.kaggle.com/static/images/site-logo.svg" /></a>
+</p>
+
 
 <!--
 **OmerCorapci/OmerCorapci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
